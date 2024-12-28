@@ -1,4 +1,4 @@
-# Hardware
+# Server Hardware
 
 The hardware I am using in my server is listed below:
 
